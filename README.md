@@ -1,4 +1,4 @@
-## Project info
+## built in hackathon
 
 **Project Name**: Booksy  
 
